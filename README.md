@@ -317,9 +317,9 @@ This project is created for educational purposes as part of a React Native navig
 
 ## 👨‍💻 Author
 
-**Shiwam Shahare**
-- GitHub: [@shiwamshahare](https://github.com/shiwamshahare)
-- Email: com.shahare@gmail.com
+**GANESH MAMIDI**
+- GitHub: [@ganeshmamidi][https://github.com/ganeshmamidi07-bot]
+- Email: ganeshmamidi07@gmail.com
 
 ---
 
@@ -337,4 +337,4 @@ This project is created for educational purposes as part of a React Native navig
 
 ---
 
-*Last Updated: May 27, 2026*
+*Last Updated: August 29, 2026*
