@@ -229,7 +229,7 @@ npm start -- --clear
 
 ### **Demo Credentials**
 ```
-Email: com.shahare@gmail.com
+Email: com.ganesh@gmail.com
 Password: password
 ```
 
@@ -319,7 +319,7 @@ This project is created for educational purposes as part of a React Native navig
 
 **GANESH MAMIDI**
 - GitHub: [@ganeshmamidi][https://github.com/ganeshmamidi07-bot]
-- Email: ganeshmamidi07@gmail.com
+- Email: ganeshmamidi@gmail.com
 
 ---
 
